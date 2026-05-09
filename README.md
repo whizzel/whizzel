@@ -1,5 +1,1 @@
-<div align="center">
-
-# Hello World! 👋
-
-</div>
+<h1 align="center">Hello World! 👋</h1>
